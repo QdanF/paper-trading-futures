@@ -1,0 +1,13 @@
+{
+  "modal_virtual_usd": 1000.0,
+  "kas_virtual_usd": 1000.0,
+  "total_pnl_virtual_usd": 0.0,
+  "total_trade_selesai": 0,
+  "menang": 0,
+  "kalah": 0,
+  "win_rate_pct": 0.0,
+  "posisi_open": 0,
+  "open": {},
+  "aturan_max_loss_100_tercapai": false,
+  "diperbarui": "2026-11-21 05:19:21 UTC"
+}

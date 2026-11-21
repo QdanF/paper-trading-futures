@@ -1,0 +1,41 @@
+{
+  "periode": "30 hari terakhir, timeframe 1h, data Binance US (spot sbg proxy harga futures)",
+  "strategi": "EMA 12/26 crossover, SL 1.5%, TP 3.0%, leverage 3x",
+  "modal_virtual_usd": 1000.0,
+  "risiko_per_trade_usd": 10.0,
+  "total_trade": 56,
+  "menang": 18,
+  "kalah": 38,
+  "win_rate_pct": 32.1,
+  "total_pnl_virtual_usd": -26.11,
+  "kas_virtual_usd": 973.89,
+  "posisi_masih_open": 0,
+  "unrealized_pnl_open_usd": 0,
+  "rata_rata_menang_usd": 15.4,
+  "rata_rata_kalah_usd": -7.99,
+  "max_drawdown_usd": 123.33,
+  "aturan_max_loss_100_tercapai": false,
+  "per_aset": {
+    "BTCUSDT": {
+      "trades": 25,
+      "menang": 8,
+      "kalah": 17,
+      "pnl_usd": -7.46,
+      "posisi_open": 0
+    },
+    "ETHUSDT": {
+      "trades": 15,
+      "menang": 4,
+      "kalah": 11,
+      "pnl_usd": -39.74,
+      "posisi_open": 0
+    },
+    "SOLUSDT": {
+      "trades": 16,
+      "menang": 6,
+      "kalah": 10,
+      "pnl_usd": 21.1,
+      "posisi_open": 0
+    }
+  }
+}
